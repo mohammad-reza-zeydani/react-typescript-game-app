@@ -1,0 +1,14 @@
+import { useQuery } from "@tanstack/react-query";
+import axios from "axios";
+const useGetTrendGames = () => {
+    const{data,isLoading,isError,error}=useQuery({
+        queryKey:["trend"],
+        queryFn:async()=>{
+            const response=await axios.get('http://localhost:3000/trend')
+            return response.data
+        }
+    })
+    return {data,isError,isLoading,error} ;
+}
+ 
+export default useGetTrendGames;

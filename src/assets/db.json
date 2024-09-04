@@ -1,0 +1,278 @@
+{
+    "games":
+        [
+            {
+                "id":1,
+                "name":"the last of us",
+                "year":2013,
+                "image":"https://cdn.suwalls.com/wallpapers/games/the-last-of-us-remastered-29816-1920x1080.jpg"
+            },
+            {
+                "id":2,
+                "name":"the last of us 2",
+                "year":2018,
+                "image":"https://4kwallpapers.com/images/wallpapers/the-last-of-us-part-ii-ellie-playstation-4-2020-games-1920x1080-1877.jpg"
+            },
+            {
+                "id":3,
+                "name":"god of war ragnarok",
+                "year":2021,
+                "image":"https://wallpapersmug.com/download/1920x1080/9417ef/god-of-war-ragnarok-kratos-2023.jpg"
+            },
+            {
+                "id":4,
+                "name":"god of war ",
+                "year":2018,
+                "image":"https://wallpapers.com/images/featured/god-of-war-83rush6v76r4v0ul.jpg"
+            },
+            {
+                "id":5,
+                "name":"read dead redemption 2",
+                "year":2018,
+                "image":"https://wallpapers.com/images/hd/wallpaper-red-dead-redemption-2-rockstar-games-4k-games-cwx8kbho9mfim8n7.jpg"
+            },
+            {
+                "id":6,
+                "name":"uncharted 4",
+                "year":2014,
+                "image":"https://wallpapers.com/images/featured/uncharted-y5wt54otbfmw8wxy.jpg"
+            },
+            {
+                "id":7,
+                "name":"uncharted lost legacy",
+                "year":2016,
+                "image":"https://cdn.wallpapersafari.com/50/87/6EwypS.jpg"
+            },
+            {
+                "id":8,
+                "name":"skyrim",
+                "year":2011,
+                "image":"https://wallpapers.com/images/featured/1920-x-1080-skyrim-sosmogbiw5zevvru.jpg"
+            },
+            {
+                "id":9,
+                "name":"cyberpunk 2077",
+                "year":2020,
+                "image":"https://images.shopcdn.co.uk/84/99/8499182b54cff64a5296ec8314495413/1920x1080/webp/resize"
+            },
+            {
+                "id":10,
+                "name":"call of duty",
+                "year":2024,
+                "image":"https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blackops6/meta/BO6_LP-meta_image.jpg"
+            },
+            {
+                "id":11,
+                "name":"spider man 2",
+                "year":2023,
+                "image":"https://4kwallpapers.com/images/wallpapers/marvels-spider-man-1920x1080-11609.jpeg"
+            },
+            {
+                "id":12,
+                "name":"resident evil remake",
+                "year":2022,
+                "image":"https://insider-gaming.com/wp-content/uploads/2023/03/resident-evil-4-remake-achievements-e1678692077105.jpg"
+            },
+            {
+                "id":13,
+                "name":"horizon forbidden west",
+                "year":2022,
+                "image":"https://cdn.wallpaper.tn/large/Horizon-Forbidden-West-Hd-Wallpaper-213266.jpg"
+            },
+            {
+                "id":14,
+                "name":"metro exodus",
+                "year":2019,
+                "image":"https://uhdwallpapers.org/download/metro-exodus-sams-story_666779/1920x1080/"
+            },
+            {
+                "id":15,
+                "name":"returnal",
+                "year":2020,
+                "image":"https://pspro.ir/mag/image/cache/catalog/Returwall-1920x1080.jpg"
+            },
+            {
+                "id":16,
+                "name":"ghost of tsushima",
+                "year":2018,
+                "image":"https://i.redd.it/4qvzwzguswm61.jpg"
+            }
+        ],
+    "recommended":[
+            {
+                "id":1,
+                "name":"the last of us",
+                "year":2013,
+                "image":"https://cdn.suwalls.com/wallpapers/games/the-last-of-us-remastered-29816-1920x1080.jpg"
+            },
+            {
+                "id":2,
+                "name":"god of war ",
+                "year":2018,
+                "image":"https://wallpapers.com/images/featured/god-of-war-83rush6v76r4v0ul.jpg"
+            },
+            {
+                "id":3,
+                "name":"read dead redemption 2",
+                "year":2018,
+                "image":"https://wallpapers.com/images/hd/wallpaper-red-dead-redemption-2-rockstar-games-4k-games-cwx8kbho9mfim8n7.jpg"
+            },
+            {
+                "id":4,
+                "name":"uncharted 4",
+                "year":2014,
+                "image":"https://wallpapers.com/images/featured/uncharted-y5wt54otbfmw8wxy.jpg"
+            },
+            {
+                "id":5,
+                "name":"uncharted lost legacy",
+                "year":2016,
+                "image":"https://cdn.wallpapersafari.com/50/87/6EwypS.jpg"
+            },
+            {
+                "id":6,
+                "name":"skyrim",
+                "year":2011,
+                "image":"https://wallpapers.com/images/featured/1920-x-1080-skyrim-sosmogbiw5zevvru.jpg"
+            }
+        ],
+    "trend":[
+            {
+                "id":1,
+                "name":"call of duty",
+                "year":2024,
+                "image":"https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blackops6/meta/BO6_LP-meta_image.jpg"
+            },
+            {
+                "id":2,
+                "name":"spider man 2",
+                "year":2023,
+                "image":"https://4kwallpapers.com/images/wallpapers/marvels-spider-man-1920x1080-11609.jpeg"
+            },
+            {
+                "id":3,
+                "name":"cyberpunk 2077",
+                "year":2020,
+                "image":"https://images.shopcdn.co.uk/84/99/8499182b54cff64a5296ec8314495413/1920x1080/webp/resize"
+            },
+            {
+                "id":4,
+                "name":"resident evil remake",
+                "year":2022,
+                "image":"https://insider-gaming.com/wp-content/uploads/2023/03/resident-evil-4-remake-achievements-e1678692077105.jpg"
+            },
+            {
+                "id":5,
+                "name":"the last of us 2",
+                "year":2018,
+                "image":"https://4kwallpapers.com/images/wallpapers/the-last-of-us-part-ii-ellie-playstation-4-2020-games-1920x1080-1877.jpg"
+            },
+            {
+                "id":6,
+                "name":"god of war ragnarok",
+                "year":2021,
+                "image":"https://wallpapersmug.com/download/1920x1080/9417ef/god-of-war-ragnarok-kratos-2023.jpg"
+            }
+        ],
+        "action":[
+            {
+                "id":1,
+                "name":"the last of us",
+                "year":2013,
+                "image":"https://cdn.suwalls.com/wallpapers/games/the-last-of-us-remastered-29816-1920x1080.jpg"
+            },
+            {
+                "id":2,
+                "name":"the last of us 2",
+                "year":2018,
+                "image":"https://4kwallpapers.com/images/wallpapers/the-last-of-us-part-ii-ellie-playstation-4-2020-games-1920x1080-1877.jpg"
+            },
+            {
+                "id":3,
+                "name":"god of war ragnarok",
+                "year":2021,
+                "image":"https://wallpapersmug.com/download/1920x1080/9417ef/god-of-war-ragnarok-kratos-2023.jpg"
+            },
+            {
+                "id":4,
+                "name":"god of war ",
+                "year":2018,
+                "image":"https://wallpapers.com/images/featured/god-of-war-83rush6v76r4v0ul.jpg"
+            },
+            {
+                "id":5,
+                "name":"call of duty",
+                "year":2024,
+                "image":"https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blackops6/meta/BO6_LP-meta_image.jpg"
+            },
+            {
+                "id":6,
+                "name":"resident evil remake",
+                "year":2022,
+                "image":"https://insider-gaming.com/wp-content/uploads/2023/03/resident-evil-4-remake-achievements-e1678692077105.jpg"
+            },
+            {
+                "id":7,
+                "name":"returnal",
+                "year":2020,
+                "image":"https://pspro.ir/mag/image/cache/catalog/Returwall-1920x1080.jpg"
+            },
+            {
+                "id":8,
+                "name":"ghost of tsushima",
+                "year":2018,
+                "image":"https://i.redd.it/4qvzwzguswm61.jpg"
+            }
+        ],
+        "adventure":[
+            {
+                "id":1,
+                "name":"spider man 2",
+                "year":2023,
+                "image":"https://4kwallpapers.com/images/wallpapers/marvels-spider-man-1920x1080-11609.jpeg"
+            },
+            {
+                "id":2,
+                "name":"skyrim",
+                "year":2011,
+                "image":"https://wallpapers.com/images/featured/1920-x-1080-skyrim-sosmogbiw5zevvru.jpg"
+            },
+            {
+                "id":3,
+                "name":"cyberpunk 2077",
+                "year":2020,
+                "image":"https://images.shopcdn.co.uk/84/99/8499182b54cff64a5296ec8314495413/1920x1080/webp/resize"
+            },
+            {
+                "id":4,
+                "name":"read dead redemption 2",
+                "year":2018,
+                "image":"https://wallpapers.com/images/hd/wallpaper-red-dead-redemption-2-rockstar-games-4k-games-cwx8kbho9mfim8n7.jpg"
+            },
+            {
+                "id":5,
+                "name":"uncharted 4",
+                "year":2014,
+                "image":"https://wallpapers.com/images/featured/uncharted-y5wt54otbfmw8wxy.jpg"
+            },
+            {
+                "id":6,
+                "name":"uncharted lost legacy",
+                "year":2016,
+                "image":"https://cdn.wallpapersafari.com/50/87/6EwypS.jpg"
+            },
+            {
+                "id":7,
+                "name":"horizon forbidden west",
+                "year":2022,
+                "image":"https://cdn.wallpaper.tn/large/Horizon-Forbidden-West-Hd-Wallpaper-213266.jpg"
+            },
+            {
+                "id":8,
+                "name":"metro exodus",
+                "year":2019,
+                "image":"https://uhdwallpapers.org/download/metro-exodus-sams-story_666779/1920x1080/"
+            }
+        ]
+    }
+
