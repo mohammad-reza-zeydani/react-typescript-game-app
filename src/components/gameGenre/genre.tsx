@@ -2,6 +2,7 @@ import { Tdata } from "../../type/dataType";
 import { PropsType } from "../../type/dataType";
 import BookMarkBtn from "../bookMark/bookMarkBtn";
 const Genre = ({data,loading,isError,error}:PropsType) => {
+   {/*this component is for clean coding because the style of adventure and action components are the same so we use this component for bouth of them*/}
     if (isError) return <div className="error">{error?.message}</div>
     return ( 
         <>

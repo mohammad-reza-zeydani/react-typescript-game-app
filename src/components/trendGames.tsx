@@ -27,7 +27,7 @@ const TrendGames = () => {
                 <img loading="lazy" className="image" src={d.image} alt="" />
                    {/* bookMark btn */}
                    <BookMarkBtn data={d}/>
-                  {/*year&name of the item*/}
+                  {/*year&name of the game*/}
                 <div className="py-3 px-3">
                 <span>year : {d.year}</span>
                 <h2 className=" md:text-lg">{d.name}</h2>

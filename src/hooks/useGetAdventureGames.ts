@@ -1,6 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 const useGetAdventure = () => {
+     {/*getting the data of games with adventure genre*/}
     const{data,isLoading,isError,error}=useQuery({
         queryKey:["adventure"],
         queryFn:async()=>{

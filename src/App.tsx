@@ -5,7 +5,6 @@ import Adventure from "./components/gameGenre/adventureGames";
 import NaBar from "./components/navBar";
 import { Route , Routes } from "react-router-dom";
 import MyContextProvider from "./context/context";
- {/* context */}
 const App = () => {
   return (
   <MyContextProvider>

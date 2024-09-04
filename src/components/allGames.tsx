@@ -3,6 +3,7 @@ import { Tdata } from "../type/dataType";
 import { useState } from "react";
 import useGetGames from "../hooks/useGetGames";
 import BookMarkBtn from "./bookMark/bookMarkBtn";
+ {/*showing all the games in this component*/}
 const AllGames = () => {
    {/* serach input state */}
     const [search,setSearch]=useState<string>("")
