@@ -9,7 +9,7 @@ const TrendGames = () => {
   return ( 
       <>
         {/*The title*/}
-   <h1 className="px-2 lg:px-7 my-8 lg:my-11">Trend Games</h1>
+   <h1 className="title">Trend Games</h1>
      {/* handle loading state */}
      {
     isLoading ? (

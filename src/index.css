@@ -21,6 +21,9 @@
   .image{
     @apply rounded-lg w-36 sm:w-52 md:w-60 lg:w-72 xl:w-96 h-32 sm:h-36 md:h-44 lg:h-52 animated-background bg-gradient-to-r from-gray-400 via-zinc-300 to-white animated-background
   }
+  .title{
+    @apply px-2 lg:px-7 my-8 lg:my-11 text-2xl
+  }
   }
 @layer base {
   h1 {

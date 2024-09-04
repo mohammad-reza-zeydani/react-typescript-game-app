@@ -9,7 +9,7 @@ const RecommendedGames = () => {
     return ( 
         <>
           {/*The title*/}
-     <h1 className="px-2 lg:px-7 my-8 lg:my-11">Recommended Games</h1>
+     <h1 className="title">Recommended Games</h1>
        {/* handle loading state */}
        {
       isLoading ? (
